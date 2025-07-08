@@ -1,14 +1,12 @@
 # Bank-app
 Here’s a professional and informative `README.md` file for your **Bankist App** project based on the uploaded HTML, CSS, and JS files:
 
----
+markdown
 
-```markdown
 # 💰 Bankist App
 
 A minimal and interactive banking web application that simulates basic banking functionalities such as login, money transfers, loan requests, and account closure. Built using HTML, CSS, and JavaScript.
 
-![Bankist Flowchart](./Bankist-flowchart.png)
 
 ## 🚀 Features
 
